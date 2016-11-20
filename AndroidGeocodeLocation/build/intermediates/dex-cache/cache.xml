@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acb147c4e6d5ba709c0abdc840508a6f35202caf">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25676ee2c20a560dc272c7382aca58db2ed05c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_b218034db259627212c723049bdbc97ae43c82ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_359a254e43dc0edc651bfdf8e70ee3fd3f47167d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.shaishavgandhi\login-buttons\0.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40f0b74f46f02ae28fba94f81931183110a50399">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shaishavgandhi-login-buttons-0.1.1_eec42c42a58daf497f73b937be51c32593890bf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_6c40845bb2755b280efea1c194dcdd56791e9aa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e7626a51e35e30a0df3dbbfff4cdf7b4b9a5db">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a04a9f204bcf88306a2276d6afac538406a80f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e05a484a3ecb8e0ad525fb909324632ddafa33a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_d32c80618d317e0247ea51f189e1045cf01662d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\punit\Downloads\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3bbe1d275cdb5acc69ce5327df8adbfb7c73a416\classes.dex" />
+    </item>
+
+</items>
